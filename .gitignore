@@ -11,3 +11,6 @@ node_modules
 
 # Env
 env.ts
+
+# Build
+dist
